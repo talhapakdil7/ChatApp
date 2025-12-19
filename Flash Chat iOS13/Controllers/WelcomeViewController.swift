@@ -18,6 +18,7 @@ class WelcomeViewController: UIViewController {
         titleLabel.text = K.title
         
     }
+   
     
 
 }
